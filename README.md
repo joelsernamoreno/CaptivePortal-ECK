@@ -9,7 +9,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
 
-**Evil Crow Keylogger For Sale at:**
+**Evil Crow Keylogger for sale at:**
 
 * [Aliexpress Shop](https://www.aliexpress.com/item/4001219974113.html)
 * [Tindie Shop](https://www.tindie.com/products/aprbrother/evilcrow-keylogger/)
