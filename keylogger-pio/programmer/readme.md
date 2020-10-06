@@ -1,0 +1,1 @@
+change `SERIAL_RX_BUFFER_SIZE` to 256
